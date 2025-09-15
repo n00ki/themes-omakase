@@ -33,6 +33,16 @@ Based on *In Bed by 7pm* by [Sarah Drasner](https://github.com/sdras), extended 
 
 ---
 
+## 📥 Installation
+
+### Zed
+Download the desired theme’s `.json` file and place it in Zed’s config path:
+`~/.config/zed/themes` on macOS and Linux
+
+Then restart Zed and select the theme
+
+---
+
 ## 📣 Contributing
 
 PRs and suggestions welcome!
