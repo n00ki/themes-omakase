@@ -8,7 +8,7 @@
       "appearance": "dark",
       "style": {
         "border": "#0f111d",
-        "border.variant": "#0f111d",
+        "border.variant": "#11141e",
         "border.focused": "#625E5A33",
         "border.selected": "#0f111d",
         "border.transparent": "#00000000",
@@ -16,9 +16,9 @@
 
         "background": "#0f1016",
         "surface.background": "#0f1016",
-        "elevated_surface.background": "#141826",
+        "elevated_surface.background": "#11141e",
 
-        "element.background": "#141826",
+        "element.background": "#11141e",
         "element.hover": "#181a2a",
         "element.active": "#223249",
         "element.selected": "#181a2a",
@@ -26,9 +26,9 @@
 
         "drop_target.background": null,
         "ghost_element.background": null,
-        "ghost_element.hover": "#141520",
+        "ghost_element.hover": "#181a2a",
         "ghost_element.active": "#223249",
-        "ghost_element.selected": "#141520",
+        "ghost_element.selected": "#181a2a",
         "ghost_element.disabled": "#575653",
 
         "text": "#C5C9C5",
@@ -59,8 +59,8 @@
 
         "scrollbar.thumb.background": "#1b273966",
         "scrollbar.thumb.hover_background": "#223249",
-        "scrollbar.thumb.border": "#141826",
-        "scrollbar.track.background": "#14182633",
+        "scrollbar.thumb.border": "#11141e",
+        "scrollbar.track.background": "#11141e33",
         "scrollbar.track.border": "#0f1016",
 
         "editor.foreground": "#C5C9C5",
