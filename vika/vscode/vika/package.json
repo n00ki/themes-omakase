@@ -1,0 +1,35 @@
+{
+  "name": "vika",
+  "displayName": "vika",
+  "description": "A grounded, earthy utilitarian dark theme",
+  "author": "Noam Shemesh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n00ki/themes-omakase"
+  },
+  "publisher": "n00ki",
+  "keywords": [
+    "theme",
+    "dark",
+    "utilitarian",
+    "earthy",
+    "vika"
+  ],
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vika",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vika-color-theme.json"
+      }
+    ]
+  }
+}

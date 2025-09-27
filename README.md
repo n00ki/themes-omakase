@@ -6,7 +6,7 @@ Each theme lives in its own folder, with versions for different IDEs and accompa
 Currently available for:
 
 - **Zed**
-- VSCode (**coming soon**)
+- **VSCode**
 
 ---
 
@@ -36,10 +36,16 @@ Based on *In Bed by 7pm* by [Sarah Drasner](https://github.com/sdras), extended 
 ## 📥 Installation
 
 ### Zed
-Download the desired theme’s `.json` file and place it in Zed’s config path:
+Download the desired theme's `.json` file and place it in Zed's config path:
 `~/.config/zed/themes` on macOS and Linux
 
 Then restart Zed and select the theme
+
+### VSCode / Cursor
+Download the `.vsix` file from the theme's folder and install it using `Extensions: Install from VSIX` or directly via:
+```
+code --install-extension vika-*.vsix
+```
 
 ---
 
