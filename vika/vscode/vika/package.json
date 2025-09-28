@@ -18,7 +18,7 @@
   ],
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.104.0"
+    "vscode": "^1.43.0"
   },
   "categories": [
     "Themes"
@@ -27,7 +27,7 @@
     "themes": [
       {
         "label": "Vika",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs-dark"  ,
         "path": "./themes/vika-color-theme.json"
       }
     ]
