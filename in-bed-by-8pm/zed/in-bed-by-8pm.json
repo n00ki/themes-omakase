@@ -2,6 +2,7 @@
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
   "name": "In Bed by 8pm",
   "author": "Noam Shemesh",
+  "description": "A cozy, dreamy dark theme with pastel accents and a relaxed vibe",
   "themes": [
     {
       "name": "In Bed by 8pm",
@@ -24,8 +25,8 @@
         "element.selected": "#1c1e2a",
         "element.disabled": "#141520",
 
-        "drop_target.background": null,
-        "ghost_element.background": null,
+        "drop_target.background": "#4c536c66",
+        "ghost_element.background": "#00000000",
         "ghost_element.hover": "#181a26",
         "ghost_element.active": "#1c1e2a",
         "ghost_element.selected": "#181a26",
@@ -45,6 +46,7 @@
 
         "status_bar.background": "#0f111d",
         "title_bar.background": "#0f111d",
+        "title_bar.inactive_background": "#0f111d",
         "toolbar.background": "#0f111d",
         "tab_bar.background": "#0f111d",
         "tab.inactive_background": "#0f111d",
@@ -56,7 +58,7 @@
         "panel.focused_border": "#0f111d",
         "pane.focused_border": "#80a4c2",
 
-        "scrollbar_thumb.background": "#141520cf",
+        "scrollbar.thumb.background": "#141520cf",
         "scrollbar.thumb.hover_background": "#181a26",
         "scrollbar.thumb.border": "#0f111d",
         "scrollbar.track.background": "#0f111d",
@@ -141,6 +143,8 @@
         "hint.border": "#a8b8c880",
 
         "ignored": "#4a5760",
+        "ignored.background": "#0f111d",
+        "ignored.border": "#141520",
 
         "info": "#9dd2e8",
         "info.background": "#9dd2e833",
@@ -151,6 +155,8 @@
         "modified.border": "#a2bffc80",
 
         "predictive": "#697098",
+        "predictive.background": "#0f111d",
+        "predictive.border": "#141520",
 
         "renamed": "#eeadf1",
         "renamed.background": "#eeadf133",
@@ -168,39 +174,48 @@
         "warning.background": "#FFC85733",
         "warning.border": "#FFC85780",
 
-        "players": [],
+        "players": [
+          {
+            "cursor": "#ebecf1",
+            "background": "#ebecf1",
+            "selection": "#4c536c66"
+          }
+        ],
 
         "syntax": {
           "attribute": { "color": "#cde0be", "font_style": "italic" },
+          "boolean": { "color": "#e9f3b7", "font_style": "italic" },
           "comment": { "color": "#b6b5cca1", "font_style": "italic" },
           "comment.doc": { "color": "#b6b5cca1", "font_style": "italic" },
           "constant": { "color": "#e9f3b7", "font_style": "italic" },
           "constructor": { "color": "#e7d9d3" },
-          "emphasis": { "color": "#ebecf1", "font_style": "italic" },
-          "emphasis.strong": { "color": "#ebecf1", "font_weight": 700 },
           "function": { "color": "#e7d9d3" },
           "keyword": { "color": "#be8fda" },
           "label": { "color": "#eeadf1" },
-          "link_text": { "color": "#80CBC4", "font_style": "oblique" },
-          "link_uri": { "color": "#80CBC4", "font_style": "oblique" },
           "number": { "color": "#e9f3b7", "font_style": "italic" },
           "operator": { "color": "#9dd2e8" },
+          "preproc": { "color": "#be8fda" },
           "punctuation": { "color": "#9dd2e8" },
           "punctuation.bracket": { "color": "#9dd2e8" },
           "punctuation.delimiter": { "color": "#9dd2e8" },
-          "punctuation.list_marker": { "color": "#9dd2e8" },
-          "punctuation.special": { "color": "#9dd2e8" },
           "string": { "color": "#8ec3f9" },
           "string.escape": { "color": "#9dd2e8", "font_style": "italic" },
           "string.regex": { "color": "#9dd2e8", "font_style": "italic" },
           "string.special": { "color": "#e7d9d3" },
-          "string.special.symbol": { "color": "#9dd2e8" },
           "tag": { "color": "#eeadf1" },
-          "text.literal": { "color": "#be8fda" },
-          "title": { "color": "#a5ffe2" },
           "type": { "color": "#a5ffe2" },
           "variable": { "color": "#d4f5f5", "font_style": "italic" },
-          "variable.special": { "color": "#faf39f", "font_style": "italic" }
+          "variable.special": { "color": "#faf39f", "font_style": "italic" },
+
+          "emphasis": { "color": "#ebecf1", "font_style": "italic" },
+          "emphasis.strong": { "color": "#ebecf1", "font_weight": 700 },
+          "link_text": { "color": "#80cbc4", "font_style": "oblique" },
+          "link_uri": { "color": "#80cbc4", "font_style": "oblique" },
+          "punctuation.list_marker": { "color": "#9dd2e8" },
+          "punctuation.special": { "color": "#9dd2e8" },
+          "string.special.symbol": { "color": "#9dd2e8" },
+          "text.literal": { "color": "#be8fda" },
+          "title": { "color": "#a5ffe2" }
         }
       }
     }

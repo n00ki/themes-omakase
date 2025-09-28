@@ -1,0 +1,37 @@
+{
+  "name": "in-bed-by-8pm",
+  "displayName": "In Bed by 8pm",
+  "description": "A cozy, dreamy dark theme with pastel accents and a relaxed vibe",
+  "author": "Noam Shemesh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n00ki/themes-omakase"
+  },
+  "publisher": "n00ki",
+  "keywords": [
+    "theme",
+    "dark",
+    "cozy",
+    "dreamy",
+    "pastel",
+    "relaxed",
+    "in bed by 8pm"
+  ],
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "In Bed by 8pm",
+        "uiTheme": "vs-dark"  ,
+        "path": "./themes/in-bed-by-8pm-color-theme.json"
+      }
+    ]
+  }
+}
