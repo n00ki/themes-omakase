@@ -130,9 +130,9 @@
         "deleted.background": "#c4746e33",
         "deleted.border": "#c4746e80",
 
-        "error": "#af3029",
-        "error.background": "#af302933",
-        "error.border": "#af302980",
+        "error": "#c4746e",
+        "error.background": "#c4746e33",
+        "error.border": "#c4746e80",
 
         "hidden": "#737c73",
         "hidden.background": "#0f1016",
@@ -166,13 +166,13 @@
         "success.background": "#a0b29f33",
         "success.border": "#a0b29f80",
 
-        "unreachable": "#af3029",
-        "unreachable.background": "#af302933",
-        "unreachable.border": "#af302980",
+        "unreachable": "#c4746e",
+        "unreachable.background": "#c4746e33",
+        "unreachable.border": "#c4746e80",
 
-        "warning": "#ff9e3b",
-        "warning.background": "#ff9e3b33",
-        "warning.border": "#ff9e3b80",
+        "warning": "#d4976c",
+        "warning.background": "#d4976c33",
+        "warning.border": "#d4976c80",
 
         "players": [
           {
