@@ -1,0 +1,32 @@
+{
+  "name": "neverforest",
+  "displayName": "Neverforest",
+  "description": "A warm, comfortable dark theme based on Everforest with natural green tones",
+  "author": "Noam Shemesh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n00ki/themes-omakase"
+  },
+  "publisher": "n00ki",
+  "keywords": [
+    "theme",
+    "dark",
+    "everforest",
+    "natural",
+    "green",
+    "neverforest"
+  ],
+  "version": "0.0.1",
+  "engines": { "vscode": "^1.43.0" },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neverforest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neverforest-color-theme.json"
+      }
+    ]
+  }
+}
