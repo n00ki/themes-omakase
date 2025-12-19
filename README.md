@@ -33,6 +33,17 @@ Based on *In Bed by 7pm* by [Sarah Drasner](https://github.com/sdras), extended 
 
 ---
 
+## 🌲 Neverforest
+
+A warm, comfortable dark theme with **natural green tones** and a cozy vibe.
+Based on [**Everforest**](https://github.com/sainnhe/everforest) by _Sainnhe Park_, with a darker background and refined palette.
+
+![Neverforest](./neverforest/neverforest.png)
+
+➡️ [See the theme folder](./neverforest)
+
+---
+
 ## 📥 Installation
 
 ### Zed

@@ -89,7 +89,7 @@
     "editorBracketPairGuide.activeBackground6": "#1b273380",
 
     "editorGutter.background": "#0f1419",
-    "editorGutter.addedBackground": "#a7c080",
+    "editorGutter.addedBackground": "#83c092",
     "editorGutter.deletedBackground": "#da6362",
     "editorGutter.modifiedBackground": "#5a93a2",
     "editorGutter.foldingControlForeground": "#7f897d",
@@ -123,11 +123,11 @@
     "editorOverviewRuler.errorForeground": "#da636280",
     "editorOverviewRuler.warningForeground": "#bf983d80",
     "editorOverviewRuler.infoForeground": "#5a93a280",
-    "editorOverviewRuler.addedForeground": "#a7c08080",
+    "editorOverviewRuler.addedForeground": "#83c09280",
     "editorOverviewRuler.deletedForeground": "#da636280",
     "editorOverviewRuler.modifiedForeground": "#5a93a280",
 
-    "diffEditor.insertedTextBackground": "#a7c08033",
+    "diffEditor.insertedTextBackground": "#83c09233",
     "diffEditor.removedTextBackground": "#da636233",
     "diffEditor.diagonalFill": "#141b22",
 
@@ -270,7 +270,7 @@
     "minimap.findMatchHighlight": "#27374666",
     "minimap.errorHighlight": "#da636266",
     "minimap.warningHighlight": "#bf983d66",
-    "minimapGutter.addedBackground": "#a7c080",
+    "minimapGutter.addedBackground": "#83c092",
     "minimapGutter.modifiedBackground": "#5a93a2",
     "minimapGutter.deletedBackground": "#da6362",
 
@@ -321,7 +321,7 @@
     "breadcrumb.activeSelectionForeground": "#d3c6aa",
     "breadcrumbPicker.background": "#141b22",
 
-    "gitDecoration.addedResourceForeground": "#a7c080",
+    "gitDecoration.addedResourceForeground": "#83c092",
     "gitDecoration.modifiedResourceForeground": "#5a93a2",
     "gitDecoration.deletedResourceForeground": "#da6362",
     "gitDecoration.untrackedResourceForeground": "#83c092",
@@ -339,7 +339,7 @@
     "welcomePage.tileBackground": "#141b22",
     "welcomePage.tileHoverBackground": "#121a22",
 
-    "testing.iconPassed": "#a7c080",
+    "testing.iconPassed": "#83c092",
     "testing.iconFailed": "#da6362",
     "testing.iconErrored": "#da6362",
     "testing.iconQueued": "#dbbc7f",

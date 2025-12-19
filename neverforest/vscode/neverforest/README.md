@@ -1,6 +1,7 @@
 # 🌲 Neverforest
 
-A warm, comfortable dark theme with natural green tones, inspired by Everforest.
+A warm, comfortable dark theme with **natural green tones** and a cozy vibe.
+Based on [**Everforest**](https://github.com/sainnhe/everforest) by _Sainnhe Park_, with a darker background and refined palette.
 
 ## Manual Installation
 
