@@ -45,7 +45,7 @@
     "editor.snippetFinalTabstopHighlightBackground": "#1b273399",
     "editorGhostText.foreground": "#7f897daa",
 
-    "editorGroupHeader.tabsBackground": "#0c1116",
+    "editorGroupHeader.tabsBackground": "#0f1419",
     "editorGroup.border": "#0c1116",
     "editorGroup.dropBackground": "#1b273366",
     "editorWidget.background": "#141b22",
@@ -156,11 +156,11 @@
     "activityBarBadge.foreground": "#0f1419",
     "activityBar.activeBorder": "#7fbbb3",
 
-    "titleBar.activeBackground": "#0c1116",
+    "titleBar.activeBackground": "#0f1419",
     "titleBar.activeForeground": "#d3c6aa",
-    "titleBar.inactiveBackground": "#0c1116",
+    "titleBar.inactiveBackground": "#0f1419",
     "titleBar.inactiveForeground": "#7f897d",
-    "titleBar.border": "#0c1116",
+    "titleBar.border": "#0f1419",
 
     "tab.activeBackground": "#0f1419",
     "tab.inactiveBackground": "#0c1116",
