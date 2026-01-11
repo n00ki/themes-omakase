@@ -8,6 +8,7 @@ Currently available for:
 - **Zed**
 - **VSCode**
 - **Warp**
+- **OpenCode**
 
 ---
 
@@ -64,6 +65,12 @@ Download the desired theme's `.yaml` file and place it in Warp's themes director
 `~/.warp/themes` on macOS and Linux
 
 Then restart Warp and select the theme from Settings → Appearance → Theme
+
+### OpenCode
+Download the desired theme's `.json` file and place it in OpenCode's themes directory:
+`~/.config/opencode/themes` on macOS and Linux
+
+Then restart OpenCode and select the theme from settings
 
 ---
 
