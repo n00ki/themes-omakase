@@ -7,6 +7,7 @@ Currently available for:
 
 - **Zed**
 - **VSCode**
+- **Warp**
 
 ---
 
@@ -57,6 +58,12 @@ Download the `.vsix` file from the theme's folder and install it using `Extensio
 ```
 code --install-extension vika-*.vsix
 ```
+
+### Warp
+Download the desired theme's `.yaml` file and place it in Warp's themes directory:
+`~/.warp/themes` on macOS and Linux
+
+Then restart Warp and select the theme from Settings → Appearance → Theme
 
 ---
 
