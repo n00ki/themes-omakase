@@ -1,0 +1,28 @@
+# Vika
+# Author: Noam Shemesh
+# A grounded, earthy utilitarian dark theme
+# https://github.com/noams/themes-omakase
+
+background = #0f1016
+foreground = #c5c9c5
+cursor-color = #c5c9c5
+cursor-text = #0f1016
+selection-background = #223249
+selection-foreground = #c5c9c5
+
+palette = 0=#0f1016
+palette = 1=#c4746e
+palette = 2=#a0b29f
+palette = 3=#c4b28a
+palette = 4=#8ba4b0
+palette = 5=#ad8a94
+palette = 6=#8ea4a2
+palette = 7=#c5c9c5
+palette = 8=#575653
+palette = 9=#d78984
+palette = 10=#b7c9b4
+palette = 11=#e0c298
+palette = 12=#a7becb
+palette = 13=#c7a0ab
+palette = 14=#aac1c0
+palette = 15=#ffffff

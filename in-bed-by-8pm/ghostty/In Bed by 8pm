@@ -1,0 +1,28 @@
+# In Bed by 8pm
+# Author: Noam Shemesh
+# A cozy, dreamy dark theme with pastel accents
+# https://github.com/noams/themes-omakase
+
+background = #0f111d
+foreground = #ebecf1
+cursor-color = #ebecf1
+cursor-text = #0f111d
+selection-background = #3b4261
+selection-foreground = #ebecf1
+
+palette = 0=#0f111d
+palette = 1=#f88070
+palette = 2=#a5ffbd
+palette = 3=#f7e9b4
+palette = 4=#9dd2e8
+palette = 5=#be8fda
+palette = 6=#21c7a8
+palette = 7=#a8b8c8
+palette = 8=#575656
+palette = 9=#f88070
+palette = 10=#a5ffbd
+palette = 11=#ffeb95
+palette = 12=#9dd2e8
+palette = 13=#be8fda
+palette = 14=#7fdbca
+palette = 15=#ffffff

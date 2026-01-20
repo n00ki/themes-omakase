@@ -9,6 +9,7 @@ Currently available for:
 - **VSCode**
 - **Warp**
 - **OpenCode**
+- **Ghostty**
 
 ---
 
@@ -71,6 +72,15 @@ Download the desired theme's `.json` file and place it in OpenCode's themes dire
 `~/.config/opencode/themes` on macOS and Linux
 
 Then restart OpenCode and select the theme from settings
+
+### Ghostty
+Download the desired theme file and place it in Ghostty's themes directory:
+`~/.config/ghostty/themes` on macOS and Linux
+
+Then add to your Ghostty config (`~/.config/ghostty/config`):
+```
+theme = Vika
+```
 
 ---
 
