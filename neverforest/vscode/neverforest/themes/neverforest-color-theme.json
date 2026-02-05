@@ -89,9 +89,9 @@
     "editorBracketPairGuide.activeBackground6": "#1b273380",
 
     "editorGutter.background": "#0f1419",
-    "editorGutter.addedBackground": "#83c092",
+    "editorGutter.addedBackground": "#dbbc7f",
     "editorGutter.deletedBackground": "#da6362",
-    "editorGutter.modifiedBackground": "#5a93a2",
+    "editorGutter.modifiedBackground": "#7fbbb3",
     "editorGutter.foldingControlForeground": "#7f897d",
     "editorGutter.commentRangeForeground": "#7f897d",
     "editorRuler.foreground": "#0e141a",
@@ -103,7 +103,7 @@
 
     "editorError.foreground": "#da6362",
     "editorWarning.foreground": "#bf983d",
-    "editorInfo.foreground": "#5a93a2",
+    "editorInfo.foreground": "#7fbbb3",
     "editorHint.foreground": "#495156",
     "editorCodeLens.foreground": "#7f897d",
     "editorLightBulb.foreground": "#e69875",
@@ -112,7 +112,7 @@
     "editorMarkerNavigation.background": "#0f1419",
     "editorMarkerNavigationError.background": "#da636266",
     "editorMarkerNavigationWarning.background": "#bf983d66",
-    "editorMarkerNavigationInfo.background": "#5a93a266",
+    "editorMarkerNavigationInfo.background": "#7fbbb366",
 
     "editorStickyScroll.background": "#0f1419",
     "editorStickyScrollHover.background": "#141b22",
@@ -122,12 +122,12 @@
     "editorOverviewRuler.border": "#0f1419",
     "editorOverviewRuler.errorForeground": "#da636280",
     "editorOverviewRuler.warningForeground": "#bf983d80",
-    "editorOverviewRuler.infoForeground": "#5a93a280",
-    "editorOverviewRuler.addedForeground": "#83c09280",
+    "editorOverviewRuler.infoForeground": "#7fbbb380",
+    "editorOverviewRuler.addedForeground": "#dbbc7f80",
     "editorOverviewRuler.deletedForeground": "#da636280",
-    "editorOverviewRuler.modifiedForeground": "#5a93a280",
+    "editorOverviewRuler.modifiedForeground": "#7fbbb380",
 
-    "diffEditor.insertedTextBackground": "#83c09233",
+    "diffEditor.insertedTextBackground": "#dbbc7f33",
     "diffEditor.removedTextBackground": "#da636233",
     "diffEditor.diagonalFill": "#141b22",
 
@@ -257,7 +257,7 @@
     "notificationToast.border": "#273746",
     "notificationsErrorIcon.foreground": "#da6362",
     "notificationsWarningIcon.foreground": "#bf983d",
-    "notificationsInfoIcon.foreground": "#5a93a2",
+    "notificationsInfoIcon.foreground": "#7fbbb3",
 
     "scrollbarSlider.background": "#2b364066",
     "scrollbarSlider.hoverBackground": "#2b364080",
@@ -270,8 +270,8 @@
     "minimap.findMatchHighlight": "#27374666",
     "minimap.errorHighlight": "#da636266",
     "minimap.warningHighlight": "#bf983d66",
-    "minimapGutter.addedBackground": "#83c092",
-    "minimapGutter.modifiedBackground": "#5a93a2",
+    "minimapGutter.addedBackground": "#dbbc7f",
+    "minimapGutter.modifiedBackground": "#7fbbb3",
     "minimapGutter.deletedBackground": "#da6362",
 
     "quickInput.background": "#141b22",
@@ -321,10 +321,10 @@
     "breadcrumb.activeSelectionForeground": "#d3c6aa",
     "breadcrumbPicker.background": "#141b22",
 
-    "gitDecoration.addedResourceForeground": "#83c092",
-    "gitDecoration.modifiedResourceForeground": "#5a93a2",
+    "gitDecoration.addedResourceForeground": "#dbbc7f",
+    "gitDecoration.modifiedResourceForeground": "#7fbbb3",
     "gitDecoration.deletedResourceForeground": "#da6362",
-    "gitDecoration.untrackedResourceForeground": "#83c092",
+    "gitDecoration.untrackedResourceForeground": "#dbbc7f",
     "gitDecoration.ignoredResourceForeground": "#495156",
     "gitDecoration.conflictingResourceForeground": "#e67e80",
     "gitDecoration.submoduleResourceForeground": "#7f897d",
@@ -332,14 +332,14 @@
 
     "problemsErrorIcon.foreground": "#da6362",
     "problemsWarningIcon.foreground": "#bf983d",
-    "problemsInfoIcon.foreground": "#5a93a2",
+    "problemsInfoIcon.foreground": "#7fbbb3",
 
     "welcomePage.progress.background": "#7fbbb3",
     "welcomePage.progress.foreground": "#0f1419",
     "welcomePage.tileBackground": "#141b22",
     "welcomePage.tileHoverBackground": "#121a22",
 
-    "testing.iconPassed": "#83c092",
+    "testing.iconPassed": "#a7c080",
     "testing.iconFailed": "#da6362",
     "testing.iconErrored": "#da6362",
     "testing.iconQueued": "#dbbc7f",
@@ -631,7 +631,7 @@
     {
       "name": "Changed (diff/markup)",
       "scope": ["markup.changed"],
-      "settings": { "foreground": "#5a93a2" }
+      "settings": { "foreground": "#dbbc7f" }
     },
     {
       "name": "Diff Range/Header",

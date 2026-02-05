@@ -122,9 +122,9 @@
         "conflict.background": null,
         "conflict.border": null,
 
-        "created": "#83c092a0",
-        "created.background": null,
-        "created.border": null,
+        "created": "#dbbc7f",
+        "created.background": "#dbbc7f33",
+        "created.border": "#dbbc7f80",
 
         "deleted": "#da6362a0",
         "deleted.background": null,
@@ -146,13 +146,13 @@
         "ignored.background": null,
         "ignored.border": null,
 
-        "info": "#5a93a2",
-        "info.background": "#5a93a220",
-        "info.border": null,
+        "info": "#7fbbb3",
+        "info.background": "#7fbbb333",
+        "info.border": "#7fbbb380",
 
-        "modified": "#5a93a2a0",
-        "modified.background": null,
-        "modified.border": null,
+        "modified": "#7fbbb3",
+        "modified.background": "#7fbbb333",
+        "modified.border": "#7fbbb380",
 
         "predictive": "#7f897d",
         "predictive.background": null,
