@@ -1,5 +1,13 @@
 # Change Log
 
+## [0.0.3] - 2026-02-05
+
+### Changed
+- Improved highlight colors for better visibility and theme consistency
+- Modified indicators now use aqua (#7fbbb3) - the theme's signature color
+- Created/added indicators now use gold (#dbbc7f) for warm accent on new items
+- Info colors updated to aqua (#7fbbb3) for palette consistency
+
 ## [0.0.2] - 2026-01-09
 
 ### Changed
